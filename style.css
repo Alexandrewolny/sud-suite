@@ -1,0 +1,173 @@
+img {
+	width: 30%;
+	margin: 0 0px;
+}
+
+/*a {
+	text-align: center;
+}
+*/
+nav ul li
+{
+ margin:0 59px; 
+}
+
+#connexion {
+	margin-left: 80%;
+	margin-top: -10%;
+}
+
+label {
+	color: white;
+}
+
+
+
+
+#inscription {
+	text-align: center;}
+
+h5 {
+	color: black;
+	margin-bottom: 5%;
+}
+
+.boutoncarousel {
+  background-color: #555555; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+
+.boutoncarousel:hover {
+	background-color:#407D1E;
+}
+
+#connexion {
+	margin-bottom: -6%;
+}
+
+.image {
+	width: 5%;
+}
+
+.Imgentete {
+	width: 7%;
+	margin-left: -30%;
+}
+
+.carous {
+	width: 100%;
+}
+
+/* @font-face {
+	font-family: TradeSmithRegular;
+	src:url(TradeSmith/TradeSmithRegular.otf);
+} */
+
+p {
+	/*font-family: TradeSmithRegular;*/
+}
+
+.btn {
+
+	color: white;
+	
+}
+
+li:hover {
+	/*background-color:#407D1E*/ ;
+}
+
+
+.container {
+	text-align: center;
+
+}
+
+#ii {
+	background-image: url("manif2.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+
+
+
+.card {
+	margin-top: 10%;
+	margin-bottom: 10%;
+	margin-left: 27%;
+	color: black;
+}
+
+
+.xd {
+	width: 5%
+}
+
+.fb {
+	width: 5%;
+} 
+
+#C{
+	background-color:black;
+
+  
+}
+#D{
+  background-image: url('7.jpg');
+  background-repeat: no-repeat;
+  background-color: black;
+  margin-left: 15%;
+}
+#G{
+  text-align: center;
+  font-family: tahoma;
+  margin: 5%;
+}
+
+#A{
+text-align : center;
+}
+body{
+  font-family: tahoma;
+  background-color: black;
+  font-family: 'Marcellus SC', serif;
+  margin: 0%;
+
+
+}
+p{
+  font-family: 'Marcellus SC', serif;
+}
+h5{
+  font-family: 'Vidaloka', serif; 
+  font-size: 200%;
+  color: darkgreen;
+}
+a{
+  font-family: 'Marcellus SC', serif;
+}
+#R{
+  margin-top: 40%;
+  background-color: grey;
+}
+#Z{
+  background-color: darkgray;
+  margin-top : 10%;
+}
+nav{
+  font-family: 'Holtwood One SC', serif;
+}
+#S{
+  margin-left: 90%;
+}
+Q{
+  font-family: 'Marcellus SC', serif;
+}
